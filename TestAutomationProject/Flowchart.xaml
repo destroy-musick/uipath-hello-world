@@ -97,7 +97,7 @@
       <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" AutoCloseAfter="00:00:00" DisplayName="Message Box" sap:VirtualizedContainerService.HintSize="200,52" sap2010:WorkflowViewState.IdRef="MessageBox_1">
         <ui:MessageBox.Text>
           <InArgument x:TypeArguments="x:Object">
-            <CSharpValue x:TypeArguments="x:Object" sap2010:WorkflowViewState.IdRef="CSharpValue`1_3">"Hello World 2";</CSharpValue>
+            <CSharpValue x:TypeArguments="x:Object" sap2010:WorkflowViewState.IdRef="CSharpValue`1_4">"Hello World 3";</CSharpValue>
           </InArgument>
         </ui:MessageBox.Text>
         <sap:WorkflowViewStateService.ViewState>
